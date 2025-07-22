@@ -1,4 +1,5 @@
 {
 "_base": "https://raw.githubusercontent.com/hypnoshock/strudel/main/",
-"tekken": ["01.wav","02.wav","03.wav","04.wav","05.wav"]
+"tekken": ["01.wav","02.wav","03.wav","04.wav","05.wav"],
+"city-strings": ["strings/city/city-of-gold-01.wav","strings/city/city-of-gold-02.wav","strings/city/city-of-gold-03.wav","strings/city/city-of-gold-04.wav","strings/city/city-of-gold-05.wav"]
 }
